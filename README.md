@@ -4,7 +4,7 @@
 
 </div>
 
-## Hit Me One More Time
+## [Hit Me One More Time](https://hgk456xn0j.execute-api.us-east-2.amazonaws.com/prod/)
 > Counting hits since 2022
 
 # AWS Cloud Development Kit (CDK) — Deep Dive
