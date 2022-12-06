@@ -1,14 +1,15 @@
-<div align="center">
-
-## Hit Me!
+## Hit Me One More Time
 > Counting hits since 2022
-
-</div>
 
 # AWS Cloud Development Kit (CDK) — Deep Dive
 
-![your review](./.meta/tdc2022-1206-16-survey.png)
+Give your review of the session at:
 
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/509054/205949690-ebfe74b8-5ebc-4c76-8d53-afb43db3f997.png" width="300"/>
+
+</div>
 
 ## Project
 
