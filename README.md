@@ -1,3 +1,9 @@
+<div align="center">
+
+![hit the bell](/.meta/bell.png)
+
+</div>
+
 ## Hit Me One More Time
 > Counting hits since 2022
 
