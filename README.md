@@ -4,18 +4,10 @@
 
 </div>
 
-## [Hit Me One More Time](https://hgk456xn0j.execute-api.us-east-2.amazonaws.com/prod/)
-> Counting hits since 2022
-
 # AWS Cloud Development Kit (CDK) — Deep Dive
 
-Give your review of the session at:
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/509054/205949690-ebfe74b8-5ebc-4c76-8d53-afb43db3f997.png" width="300"/>
-
-</div>
+## [Hit Me One More Time](https://hgk456xn0j.execute-api.us-east-2.amazonaws.com/prod/)
+> Counting hits since 2022
 
 ## Project
 
